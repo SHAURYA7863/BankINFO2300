@@ -17,8 +17,8 @@ javascript/jquery it can be used for functionality
 bootstrap it can be used for responsive
 
 Instruction for usinging this website:
-step 1 Install web browser like chrome/firefox
-step 2 Visual studio code download 
-step 3 Extract this code and used index code
+1. Install web browser like chrome/firefox
+2. Visual studio code download 
+3. Extract this code and used index code
 
 
